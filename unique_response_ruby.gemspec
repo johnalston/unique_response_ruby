@@ -5,7 +5,7 @@ require 'unique_response_ruby/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "unique_response_ruby"
-  spec.version       = UniqueResponseRuby::VERSION
+  spec.version       = UniqueResponse::VERSION
   spec.authors       = ["John Alston"]
   spec.email         = ["jalston@bovitzinc.com"]
 
